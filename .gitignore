@@ -3,3 +3,7 @@
 *.tfstate*
 *.tfstate
 
+demo/*.tfvars
+demo/.terraform/*
+demo/*.tfstate*
+demo/*.tfstate
